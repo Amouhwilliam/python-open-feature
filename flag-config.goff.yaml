@@ -6,5 +6,5 @@ flag-only-for-admin:
     variation: not-admin
   targeting:
     - name: check admin
-      query: key eq "d45e303a-38c2-11ed-a261-0242ac120002"
+      query: key eq "d45e303a-38c2-11ed-a261-0242ac120012"
       variation: is-admin
