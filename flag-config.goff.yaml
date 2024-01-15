@@ -6,5 +6,5 @@ flag-only-for-admin:
     variation: not-admin
   targeting:
     - name: check admin
-      query: admin eq true
+      query: admin eq d45e303a-38c2-11ed-a261-0242ac120002
       variation: is-admin
