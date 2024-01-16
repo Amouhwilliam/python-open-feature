@@ -1,4 +1,4 @@
-flag-only-for-admin:
+flag-only-for-admin: 
   variations:
     is-admin: true
     not-admin: false
